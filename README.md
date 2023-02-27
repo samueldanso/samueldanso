@@ -34,5 +34,5 @@
   <img align="right" alt="Samuel Danso | LinkedIn`" width="21px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/linkedin.png" />
 </a> 
 <a href="https://samueldanso.hashnode.dev">
-  <img align="right" alt="Samuel Danso | Hashnode" width="21px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/hasnode.png" />
+  <img align="right" alt="Samuel Danso | Hashnode" width="21px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/hashnode.png" />
 </a>
