@@ -28,7 +28,7 @@
 <br />
 
 <a href="https://twitter.com/samueldanso">
-  <img align="right" alt="Samuel Danso | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Samuel Danso | Twitter" width="21px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
