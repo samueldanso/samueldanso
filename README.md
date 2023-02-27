@@ -3,7 +3,7 @@
 
 ### Full-Stack Web3 Developer
 
-#### About Me
+### About Me
   - 👨‍💻 I’m currently learning Solidity, and building cool products in web3
   - 🤝 I'm open to work or collaborating on projects
   - 💬 Ask me about anything [here](https://github.com/samueldanso/samueldanso/issues)
