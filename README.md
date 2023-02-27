@@ -25,7 +25,7 @@
 <br />
 
 <a href="https://www.linkedin.com/in/samueldanso">
-  <img align="right" alt="Samuel Danso | LinkedIn`" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/linkedin.png" />
+  <img align="right" alt="Samuel Danso | LinkedIn" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/linkedin.png" />
 </a> 
 <a href="https://twitter.com/samueldanso">
   <img align="right" alt="Samuel Danso | Twitter" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/twitter.svg" />
@@ -34,5 +34,5 @@
   <img align="right" alt="Samuel Danso | Hashnode" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/hashnode.png" />
 </a>
 
-Support Me
-<a href="https://www.buymeacoffee.com/samueldans0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" /></a>
+
+<a href="https://www.buymeacoffee.com/samueldans0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
