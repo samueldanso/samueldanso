@@ -35,5 +35,5 @@
   <img align="right" alt="Samuel Danso | Hashnode" width="21px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/hashnode.png" />
 </a>
 
-### Support Me
-<a href="https://www.buymeacoffee.com/samueldans0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
+#### Support Me
+<a href="https://www.buymeacoffee.com/samueldans0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
