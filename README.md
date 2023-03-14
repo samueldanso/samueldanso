@@ -7,9 +7,12 @@
 
 ### 👋 About me
 
-  - 👨‍💻 I'm currently learning Solidity and building cool products in Web3, and everything about blockchain.
+  - 👨 I'm a full-stack Web3 developer. 
   
-  - 🤝 I'm open to working on or collaborating on Web3 & smart contract projects.
+  - 👨‍💻 I'm currently learning Solidity, Smart Contracts and everything about the Blockchain.
+  - Passionately building cool products in Crypto/Web3. 
+  
+  - 🤝 Actively looking for work and open to collaborating on projects.
   
   - 💬 Ask me about anything [here](https://github.com/samueldanso/samueldanso/issues)
 
