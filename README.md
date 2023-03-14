@@ -8,14 +8,14 @@
   
   - 👨‍💻 I'm currently learning Solidity, Smart Contracts and everything about the Blockchain.
   
-  - ⚡️ Passionately building cool products in Crypto/Web3. 
+  - ⚡️ Passionately building cool products in crypto/web3. 
   
   - 🤝 Actively looking for work and open to collaborating on projects.
   
   - 💬 Ask me about anything [here](https://github.com/samueldanso/samueldanso/issues)
 
  <br />
- 
+
 ## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/samueldanso">
