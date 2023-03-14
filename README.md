@@ -5,7 +5,7 @@
 
 ## I'm a Full-Stack Web3 Developer
 
-### About me
+### 👋 About me
 
   - 👨‍💻 I'm currently learning Solidity and building cool products in Web3, and everything about blockchain.
   
@@ -15,24 +15,20 @@
 
 <br />
 
+### 🌐 Socials:
 <a href="https://www.linkedin.com/in/samueldanso">
-  <img align="right" alt="Samuel Danso | LinkedIn" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/linkedin.png" />
+  <img align="left" alt="Samuel Danso | LinkedIn" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/linkedin.png" />
 </a> 
 <a href="https://twitter.com/samueldanso">
-  <img align="right" alt="Samuel Danso | Twitter" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/twitter.svg" />
+  <img align="left" alt="Samuel Danso | Twitter" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/twitter.svg" />
 </a>
 <a href="https://samueldanso.hashnode.dev">
-  <img align="right" alt="Samuel Danso | Hashnode" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/hashnode.png" />
+  <img align="left" alt="Samuel Danso | Hashnode" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/hashnode.png" />
 </a>
+ 
+### 👨‍💻 Skills
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samueldanso) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sam) 
-
-### Skills
-
-<code><img height="22" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="22" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="22" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 <br />
 
@@ -40,16 +36,5 @@
 | ------------- | ------------- |
 
 <br />
-
-<a href="https://www.linkedin.com/in/samueldanso">
-  <img align="right" alt="Samuel Danso | LinkedIn" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/linkedin.png" />
-</a> 
-<a href="https://twitter.com/samueldanso">
-  <img align="right" alt="Samuel Danso | Twitter" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/twitter.svg" />
-</a>
-<a href="https://samueldanso.hashnode.dev">
-  <img align="right" alt="Samuel Danso | Hashnode" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/hashnode.png" />
-</a>
-
 
 <a href="https://www.buymeacoffee.com/samueldans0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" /></a>
