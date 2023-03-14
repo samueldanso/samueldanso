@@ -14,7 +14,6 @@
   
   - 💬 Ask me about anything [here](https://github.com/samueldanso/samueldanso/issues)
 
- <br />
 
 ## 🌐 Socials:
 
@@ -37,7 +36,7 @@
 
 
 <br />
-<br />
+
 
 |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=samueldanso&show_icons=true&include_all_commits=true&theme=bear&hide_border=true" alt="Samuel's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldanso&layout=compact&theme=bear&hide_border=true" /></a> |
 | ------------- | ------------- |
