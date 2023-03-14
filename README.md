@@ -14,17 +14,16 @@
   
   - 💬 Ask me about anything [here](https://github.com/samueldanso/samueldanso/issues)
 
-<br />
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/samueldanso">
-  <img align="left" alt="Samuel Danso | LinkedIn" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/linkedin.png" />
+  <img align="left" alt="Samuel Danso | LinkedIn" width="24px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/linkedin.png" />
 </a> 
 <a href="https://twitter.com/samueldanso">
-  <img align="left" alt="Samuel Danso | Twitter" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/twitter.svg" />
+  <img align="left" alt="Samuel Danso | Twitter" width="24px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/twitter.svg" />
 </a>
 <a href="https://samueldanso.hashnode.dev">
-  <img align="left" alt="Samuel Danso | Hashnode" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/hashnode.png" />
+  <img align="left" alt="Samuel Danso | Hashnode" width="24px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/hashnode.png" />
 </a>
 
  <br />
