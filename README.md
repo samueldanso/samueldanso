@@ -2,15 +2,13 @@
    Hello, I'm <a href="https://github.com/samueldanso">Samuel<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
 
+## 👋 About me
 
-## full-stack web3 developer | smart contract developer
-
-### 👋 About me
-
-  - 👨 I'm a full-stack Web3 developer. 
+  - 👨 I'm a full-stack web3 developer. 
   
   - 👨‍💻 I'm currently learning Solidity, Smart Contracts and everything about the Blockchain.
-  - Passionately building cool products in Crypto/Web3. 
+  
+  - ⚡️ Passionately building cool products in Crypto/Web3. 
   
   - 🤝 Actively looking for work and open to collaborating on projects.
   
@@ -18,7 +16,7 @@
 
 <br />
 
-### 🌐 Socials:
+## 🌐 Socials:
 <a href="https://www.linkedin.com/in/samueldanso">
   <img align="left" alt="Samuel Danso | LinkedIn" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/linkedin.png" />
 </a> 
