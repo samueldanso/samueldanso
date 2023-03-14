@@ -15,6 +15,7 @@
   - 💬 Ask me about anything [here](https://github.com/samueldanso/samueldanso/issues)
 
  <br />
+ 
 ## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/samueldanso">
