@@ -1,15 +1,32 @@
-## <p align="center"> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Samuel </p>
+<h1 align="center">
+   Hello, I'm <a href="https://github.com/samueldanso">Samuel<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+</h1>
 
-## I'm a full-stack web3 developer
+
+## I'm a Full-Stack Web3 Developer
 
 ### About me
 
-  - 👨‍💻 I’m currently learning Solidity, and building cool products in web3
+  - 👨‍💻 I'm currently learning Solidity and building cool products in Web3, and everything about blockchain.
   
-  - 🤝 I'm open to work or collaborating on projects
+  - 🤝 I'm open to working on or collaborating on Web3 & smart contract projects.
   
   - 💬 Ask me about anything [here](https://github.com/samueldanso/samueldanso/issues)
 
+<br />
+
+<a href="https://www.linkedin.com/in/samueldanso">
+  <img align="right" alt="Samuel Danso | LinkedIn" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/linkedin.png" />
+</a> 
+<a href="https://twitter.com/samueldanso">
+  <img align="right" alt="Samuel Danso | Twitter" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/twitter.svg" />
+</a>
+<a href="https://samueldanso.hashnode.dev">
+  <img align="right" alt="Samuel Danso | Hashnode" width="22px" src="https://github.com/samueldanso/samueldanso/blob/main/assets/hashnode.png" />
+</a>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samueldanso) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sam) 
 
 ### Skills
 
