@@ -18,6 +18,3 @@
 
 
 
-   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldanso&layout=compact&theme=bear&hide_border=true" /></a> |
-
-
