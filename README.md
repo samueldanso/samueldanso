@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hello, I'm <a href="https://github.com/samueldanso">Samuel<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+   Hello, I'm Samuel
 </h1>
 
 ## 👋 About me:
