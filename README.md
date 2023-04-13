@@ -4,7 +4,7 @@
 
 ## 👋 About me:
 
-  - 👨 I'm a full-stack blockchain software developer. 
+  - 👨 I'm a full-stack blockchain developer. 
   
   - 👨‍💻 I'm currently learning Solidity, Smart Contracts, Zero-Knowledge-Proofs, Ominichain and everything about the Blockchain.
   
