@@ -4,9 +4,7 @@
 
 ## 👋 About me:
 
-  - 👨 I'm a full-stack web3 developer. 
-  
-  - 👨‍💻 I'm currently learning and interested in Solidity, Smart Contracts, Zero-Knowledge-Proofs and everything about the Blockchain.
+  - 👨 I'm a full-stack developer building open tech in web3 and AI. 
   
   - ⚡️ Passionately building cool products in crypto/web3. 
   
