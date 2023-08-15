@@ -4,9 +4,9 @@
 
 ## 👋 About me:
 
-  - 👨 I'm a full-stack developer building open tech in web3 and AI. 
+  - 👨 I'm a full-stack developer. 
   
-  - ⚡️ Passionately building cool products in crypto/web3. 
+  - ⚡️ Currently building cool products in web3/AI.
   
   - 🤝 Actively looking for work and open to collaborating on projects.
   
