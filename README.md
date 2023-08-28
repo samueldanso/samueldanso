@@ -4,9 +4,7 @@
 
 ## 👋 About me:
 
-  - 👨 I'm a full-stack developer. 
-  
-  - ⚡️ Currently building cool products in web3/AI.
+  - 👨 I'm a full-stack software engineer building cool products with Web3, AI, and Next.js.
   
   - 🤝 Actively looking for work and open to collaborating on projects.
   
