@@ -6,9 +6,10 @@
 
   - 👨 I'm currently focussed on building modern full-stack web applications, web3 dApps, and AI products that engage users love to use.
   - 💡 I'm actively seeking new opportunities to expand my horizons, learn, and contribute my knowledge to the community.
-  - 📩  Reach me at: me.samueldanso@gmail.com  
+  - 📩  Reach me at: me.samueldanso@gmail.com
 
-<h3> Tech Stack </h3>
+
+<h3> Tech Stack: </h3>
 
   - Languages: TypeScript, Solidity.
   - Frontend Mastery: Next.js, Tailwind CSS, Radix UI, Shadcn UI.
