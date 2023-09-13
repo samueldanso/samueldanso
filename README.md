@@ -15,7 +15,7 @@
   - Frontend Mastery: Next.js, Tailwind CSS, Radix UI, Shadcn UI.
   - Backend Proficiency: PostgreSQL, Prisma, Drizzle ORM, NeonDB.
   - Blockchain Skills: Ethereum, Hardhat, Foundry, Wagmi, Viem, Thirdweb, ConnectKit.
-  - AI Skills: Langchain, LLMs (OpenAI API, Llama, Huggingface, etc.)    - Languages: TypeScript, Solidity
+  - AI Skills: Langchain, LLMs (OpenAI API, Llama, Huggingface, etc.)  
 
 
 
