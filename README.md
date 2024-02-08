@@ -2,11 +2,12 @@
    Hey, I'm Samuel 👋
 </h1>
 
-<h2> I'm a software developer and a crypto enthusiast </h2>
+<h2> I'm a web3 dev and a crypto enthusiast </h2>
 
-- I'm focussed research and contributing to DeFi, crypto and web3 ecosystems.
+- I'm actively focussed on
+research and contributing to DeFi and crypto community.
   
-- I'm actively seeking new opportunities to expand my horizons, learn, and contribute my knowledge to the crypto and web3 community
+- Currently seeking new opportunities/roles to learn and contribute my knowledge to the web3/crypto space.
 
 - Reach me at: me.samueldanso@gmail.com
 
