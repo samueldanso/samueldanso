@@ -7,7 +7,7 @@
 
 - Currently focused on community growth, DeFi research, and contributing to web3 ecosystems.
   
-- Seeking opportunities to leverage my Web3 technical skills for community management and growth.
+- Seeking opportunities to leverage my Web3 technical skills for community building and growth.
 
 - Reach me at: me.samueldanso@gmail.com
 
