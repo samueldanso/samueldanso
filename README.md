@@ -18,7 +18,7 @@
 ### Tech Stack
 - Languages: TypeScript, Solidity, Rust
 - Frontend: Next.js, Tailwind CSS 
-- Blockchain: Ethereum(EVM), Foundry, Solana (SVM), Anchor
+- Blockchain: Ethereum (EVM), Foundry, Solana (SVM), Anchor
   
 ### Contact
 Reach me on X [@samueldans0](https://twitter.com/samueldans0). Email me.samueldanso@gmail.com
