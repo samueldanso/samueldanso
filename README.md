@@ -2,9 +2,9 @@
 
 ### About me
 - 👨‍💻 Full-stack web3 developer 
-- 📚 Currently learning smart contract development and building apps onchain.
-- ⭐️ Interested in DeFi, Modular blockchains, Rollups, ZK.
-- 🌴 Love to travel and explore new places on my free time.
+- 📚 Currently learning smart contract development and building apps onchain
+- ⭐️ Interested in DeFi, Modular blockchains, Rollups, ZK
+- 🌴 Love to travel and explore new places on my free time
   
 <!-- 
 ### Projects
@@ -16,9 +16,9 @@
   -->
 
 ### Tech Stack
-- Smart Contract: Solidity, Foundry, Rust, Anchor
-- Frontend: TypeScript, Next.js Tailwind CSS, Viem, Solana/Web3.js
-- Blockchain: Ethereum(EVM), Solana (SVM)
+- Languages: TypeScript, Solidity, Rust
+- Frontend: Next.js, Tailwind CSS 
+- Blockchain: Ethereum(EVM), Foundry, Solana (SVM), Anchor
   
 ### Contact
 Reach me on X [@samueldans0](https://twitter.com/samueldans0). Email me.samueldanso@gmail.com
