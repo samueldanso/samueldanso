@@ -3,7 +3,7 @@
 ### About me
 - 👨‍💻 Full-stack web3 developer 
 - 📚 Currently learning smart contract development and building apps onchain
-- ⭐️ Interested in DeFi, Modular blockchains, Rollups, ZK
+- ⭐️ Interested in DeFi, Payments, Modular blockchains, Rollups, ZK
 - 🌴 Love to travel and explore new places on my free time
   
 <!-- 
