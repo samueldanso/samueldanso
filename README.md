@@ -1,7 +1,7 @@
 ### Hi there, I'm Samuel 👋
 
 ### About me
-- 👨‍💻 Full-stack web3 developer 
+- 👨‍💻 Blockchain developer 
 - 📚 Currently learning smart contract development and building apps onchain
 - ⭐️ Interested in DeFi, Payments, Modular blockchains, Rollups, ZK
 - 🌴 Love to travel and explore new places on my free time
@@ -16,8 +16,8 @@
   -->
 
 ### Tech Stack
-- Languages: TypeScript, Solidity, Rust
-- Frontend: Next.js, Tailwind CSS 
+- Languages: Solidity, Rust, JavaScript/TypeScript
+- Frontend: React/Next.js, Tailwind CSS 
 - Blockchain: Ethereum EVM, (Foundry), Solana (Anchor)
   
 ### Contact
