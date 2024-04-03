@@ -1,11 +1,9 @@
 ### Hi there, I'm Samuel 👋
 
 ### About me
-- 👨‍💻 I'm a product-minded web3 engineer 
-- 📚 Currently focused on smart contract development, learning new technologies and building apps onchain
-- ⭐️ Interested in DeFi, Payments, Modular blockchains, Rollups, ZK
--    Technologies: Solidity, Rust, Typescript, NextJS.
-- 🌴 Love to travel and explore new places on my free time
+I'm a product-minded web3 engineer, currently focused on smart contract development, learning new technologies, and building apps on-chain. I have a keen interest in DeFi, Payments, ZK, Rollups, Modular, and Appchains. The technologies I work with include Solidity, Rust, Typescript, and NextJS. In my free time, I love to travel and explore new places.
+
+Feel free to reach out to me on Twitter @samueldans0 or email me at me.samueldanso@gmail.com.
   
 <!-- 
 ### Projects
@@ -16,10 +14,3 @@
 - [Ampnet](https://ampnet.io/) | The Tokenization of Real World Assets.
   -->
 
-### Tech Stack
-- Languages: Solidity, Rust, JavaScript/TypeScript
-- Frontend: React/Next.js, Tailwind CSS 
-- Blockchain: Ethereum EVM, (Foundry), Solana (Anchor)
-  
-### Contact
-Find me on X [@samueldans0](https://twitter.com/samueldans0). Email me.samueldanso@gmail.com
