@@ -1,9 +1,10 @@
 ### Hi there, I'm Samuel 👋
 
 ### About me
-- 👨‍💻 Blockchain developer 
-- 📚 Currently learning smart contract development and building apps onchain
+- 👨‍💻 I'm a product-minded web3 engineer 
+- 📚 Currently focused on smart contract development, learning new technologies and building apps onchain
 - ⭐️ Interested in DeFi, Payments, Modular blockchains, Rollups, ZK
+-    Technologies: Solidity, Rust, Typescript, NextJS.
 - 🌴 Love to travel and explore new places on my free time
   
 <!-- 
@@ -21,4 +22,4 @@
 - Blockchain: Ethereum EVM, (Foundry), Solana (Anchor)
   
 ### Contact
-Reach me on X [@samueldans0](https://twitter.com/samueldans0). Email me.samueldanso@gmail.com
+Find me on X [@samueldans0](https://twitter.com/samueldans0). Email me.samueldanso@gmail.com
