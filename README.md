@@ -3,7 +3,7 @@
 I'm a product-minded web3 engineer passionate about building apps onchain. Currently focused on smart contract development and continuously learning new technologies. I'm interested in DeFi, Payments, ZK, Rollups, Modular, and Appchains. My tech stack includes Solidity (Foundry), Rust, TypeScript and NextJS.
 
 - Reach me on X: [@samueldans0](https://twitter.com/samueldans0)
-- Send me an email: [me.samueldanso@gmail.com](mailto:me.samueldanso@gmail.com)
+- Write me an email: [me.samueldanso@gmail.com](mailto:me.samueldanso@gmail.com)
   
 <!-- 
 ### Projects
