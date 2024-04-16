@@ -1,6 +1,6 @@
 ### Hi there, I'm Samuel 👋
 
-I'm a product-minded web3 engineer passionate about building apps onchain. Currently focused on smart contract development and continuously learning new technologies. I'm interested in DeFi, Payments, ZK, Rollups, Modular, and Appchains. My tech stack includes Solidity (Foundry), Rust, TypeScript and NextJS.
+I’m a software engineer passionate about building apps in Web3 and frontier tech. My interests include Ethereum, DeFi, AI, and the modular ecosystem. I primarily work with Solidity, TypeScript, and Next.js.
 
 - Reach me on X: [@samueldans0](https://twitter.com/samueldans0)
 - Write me an email: [me.samueldanso@gmail.com](mailto:me.samueldanso@gmail.com)
