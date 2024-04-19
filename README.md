@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm a software engineer specializing in full-stack Web3 (dApp) development. I mostly work with Solidity, TypeScript, React, and Next.js.
 <!--
