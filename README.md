@@ -1,20 +1,11 @@
-### Hi there, I'm Samuel 👋
+## Hi there 👋
 
-I’m a software engineer passionate about building innovative products in Web3 and frontier tech.
-
-- My interests include Ethereum, DeFi, payments, AI, and RWA.
-
-- I mostly work with Languages: Solidity, TypeScript; Frameworks: React/Next.js.
-
-- Reach me on X: [@samueldans0](https://twitter.com/samueldans0)
-- Write me an email: [me.samueldanso@gmail.com](mailto:me.samueldanso@gmail.com)
-  
-<!-- 
-### Projects
-- [savings-vault](https://www.phuture.finance/products/usv) : Crypto's first USDC bond ETF.
-- [Phuture DeFi Index](https://www.phuture.finance/products/pdi) : Yield generating DeFi index.
-- [Colony Avalanche Index](https://www.phuture.finance/products/cai) : The leading Avalanche index.
-- [Single-Sided Liquidity DEX](https://news.bitcoin.com/hydra-chain-claims-its-spot-by-launching-a-native-dex/) | Hydra chain native DEX.
-- [Ampnet](https://ampnet.io/) | The Tokenization of Real World Assets.
-  -->
-
+I'm a software engineer specializing in full-stack Web3 (dApp) development. I mostly work with Solidity, TypeScript, React, and Next.js.
+<!--
+Here are some of my favorite personal and open source projects:
+- **auto-commit**: A Rust CLI that automatically writes commit messages for you.
+- **yt-whisper**: Automatically generates subtitles for YouTube videos using OpenAI's Whisper.
+- **plz-cli**: A Copilot for your terminal.
+- **armchair**: A Next.js starter kit for full-stack web3 apps.
+-->
+Feel free to reach out to me on X [@samueldans0](https://twitter.com/samueldans0) or via email at [me.samueldanso@gmail.com](mailto:me.samueldanso@gmail.com).
