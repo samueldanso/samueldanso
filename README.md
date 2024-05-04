@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer specializing in full-stack Web3 (dApp) development. I mostly work with Solidity, TypeScript, and React/Next.js.
+I'm a software engineer specializing in full-stack blockchain (dApps) development. I mostly work with Solidity, TypeScript, and React/Next.js.
 <!--
 Here are some of my favorite personal and open source projects:
 - **auto-commit**: A Rust CLI that automatically writes commit messages for you.
