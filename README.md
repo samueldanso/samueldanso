@@ -1,6 +1,7 @@
-### Hi there 👋
-
+### Hi there, Im Samuel👋
+<!--
 I'm a software engineer specializing in full-stack blockchain (dApps) development. I mostly work with Solidity, TypeScript, and React/Next.js.
+-->
 <!--
 Here are some of my favorite personal and open source projects:
 - **auto-commit**: A Rust CLI that automatically writes commit messages for you.
