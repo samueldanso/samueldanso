@@ -9,4 +9,6 @@ Here are some of my favorite personal and open source projects:
 - **plz-cli**: A Copilot for your terminal.
 - **armchair**: A Next.js starter kit for full-stack web3 apps.
 -->
+<--
 Feel free to reach out to me on X [@samueldans0](https://twitter.com/samueldans0) or email me at [me.samueldanso@gmail.com](mailto:me.samueldanso@gmail.com).
+-->
