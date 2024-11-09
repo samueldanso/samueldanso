@@ -1,7 +1,7 @@
 <img src="https://lihbr.com/api/hr" alt="separator" height="3" width="2%" />
 <br />
 <samp>
-  >👋 Hi, I'm Samuel. <br />
+  👋 Hi, I'm Samuel. <br />
   I build stuff for a living.
 </samp>
 <br /><br />
