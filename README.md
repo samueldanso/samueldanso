@@ -6,7 +6,7 @@
 </samp>
 <br /><br />
 <samp>
-  I'm into full-stack, AI, and web3 development, focusing on **decentralized AI agents, applications, and systems**. <br />
+  I'm into full-stack, AI, and web3 development, focusing on **DeFi, AI agents, and decentralized systems**. <br />
   Reach out on my <a href="https://x.com/samueldans0" target="_blank">X</a>.
 <!--   Reach out on my <a href="https://samueldanso.com/" target="_blank">website</a> or <a href="https://x.com/samueldans0" target="_blank">X</a>. -->
 </samp>
