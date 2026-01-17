@@ -1,6 +1,6 @@
 <img src="https://lihbr.com/api/hr" alt="separator" height="3" width="2%" />
 
-Hi 👋, I’m Samuel — a full-stack product engineer building in AI, Web3, and frontier tech.
+Hi 👋, I’m Samuel — a full-stack software engineer building in AI & web3 products.
 
 [Reach me on X](https://x.com/samueldans0)
 
