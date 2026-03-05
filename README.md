@@ -1,6 +1,6 @@
 <img src="https://lihbr.com/api/hr" alt="separator" height="3" width="2%" />
 
-Currently building at the intersection of AI and web3, focused on how products work and feel.
+Building at the intersection of AI and Web3 — focused on how products work and feel.
 
 Interested in: Agentic AI · Onchain AI · DeFi
 
