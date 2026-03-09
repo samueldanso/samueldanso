@@ -1,6 +1,6 @@
 <img src="https://lihbr.com/api/hr" alt="separator" height="3" width="2%" />
 
-Building ai-native & onchain products end-to-end — focused on how they work and feel.
+Building AI-native & onchain products end-to-end — focused on how they work and feel.
 
 Interested in: Agentic AI · Autonomous Agents · Onchain
 
