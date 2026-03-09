@@ -1,6 +1,6 @@
 <img src="https://lihbr.com/api/hr" alt="separator" height="3" width="2%" />
 
-Building at the intersection of AI and Web3 — focused on how products work and feel.
+Building ai-native & onchain products end-to-end — focused on how they work and feel.
 
 Interested in: Agentic AI · Autonomous Agents · Onchain
 
