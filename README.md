@@ -2,7 +2,7 @@
 
 Building at the intersection of AI and Web3 — focused on how products work and feel.
 
-Interested in: Agentic AI · Autonomous Agents · Onchain AI & Decentralized Finance
+Interested in: Agentic AI · Autonomous Agents · Onchain
 
 <a href="https://www.samueldanso.com" target="_blank">🌐 Website</a> | <a href="https://x.com/samueldans0" target="_blank">🦜 X/Twitter</a>
 
