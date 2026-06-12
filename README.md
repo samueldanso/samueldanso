@@ -2,7 +2,7 @@
 
 <!-- <div align="center">
 
-Building AI Platforms: LLMs, VLMs, RAG, Agentic AI & Physical AI
+Building AI Systems & Tooling: LLMs, VLMs, RAG, Agentic AI & Physical AI
 
 <a href="https://samueldanso.com" target="_blank">portfolio</a> •
 <a href="https://www.linkedin.com/in/samueldanso" target="_blank">linkedIn</a> •
