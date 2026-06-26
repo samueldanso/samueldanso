@@ -1,8 +1,8 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=samueldanso&left_text=visitors&left_color=gray" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samueldanso&left_text=visitors&left_color=gray" />
 
 <div align="center">
 
-I'm an AI engineer and founder building AI-native systems and products end to end, focused on how they work and feel.
+I'm an AI engineer building AI-native systems and products end to end, focused on how they work and feel.
 
 <a href="https://samueldanso.com" target="_blank">portfolio</a> •
 <a href="https://www.linkedin.com/in/samueldanso" target="_blank">linkedIn</a> •
