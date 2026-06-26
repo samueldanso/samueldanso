@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samueldanso&left_text=visitors&left_color=gray" />
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=samueldanso&left_text=visitors&left_color=gray" />
+</div>
 
 <div align="center">
 
