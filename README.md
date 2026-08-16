@@ -4,10 +4,13 @@
 
 <div align="center">
 
-I'm an AI engineer building AI-native systems and products end to end, focused on how they work and feel.
+I'm a Full-Stack AI Engineer building AI-native products and infra for web3 and fintech.
 
-<a href="https://samueldanso.com" target="_blank">portfolio</a> •
-<a href="https://www.linkedin.com/in/samueldanso" target="_blank">linkedIn</a> •
-<a href="https://x.com/samueldans0" target="_blank">x/twitter</a>
+**You can find me here:**
+
+- [Portfolio](https://samueldanso.com)
+- [X](https://x.com/samueldans0)
+<!-- - [LinkedIn](https://linkedin.com/in/samueldanso)
+- Resume [samueldanso.com/resume](https://samueldanso.com/resume) -->
 
 </div>
