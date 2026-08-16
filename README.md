@@ -2,6 +2,8 @@
 
 I'm a Full-Stack AI Engineer building AI-native products and infra for web3 and fintech.
 
+**Connect with me:**
+
 - [Portfolio](https://samueldanso.com)
 - [X](https://x.com/samueldans0)
 <!-- - [LinkedIn](https://linkedin.com/in/samueldanso)
