@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samueldanso&left_text=visitors&left_color=gray" />
 
-I'm a Full-Stack AI Engineer building AI-native products and infra for web3 and fintech.
+I'm an AI Engineer building full-stack AI-native products and infra, focused on AI agents and onchain finance.
 
 **Connect with me:**
 
