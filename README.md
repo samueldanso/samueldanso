@@ -2,7 +2,7 @@
 
 I'm a Software Engineer building full-stack AI-native products and infra, focused on AI agents and onchain finance.
 
-**Connect with me:**
+Connect with me:
 
 - [Portfolio](https://samueldanso.com)
 - [X](https://x.com/samueldans0)
