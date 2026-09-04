@@ -2,7 +2,7 @@
 
 I'm a Software Engineer building AI-native products and infra, focused on AI agents and agentic finance.
 
-- Portfolio: [samueldanso.com](https://samueldanso.com)
-- X: [@samueldans0](https://x.com/samueldans0)
-<!-- - LinkedIn: [samueldanso](https://linkedin.com/in/samueldanso)
-- Resume: [samueldanso.com/resume](https://samueldanso.com/resume) -->
+- <a href="https://samueldanso.com" target="_blank">Portfolio</a>
+- <a href="https://x.com/samueldans0" target="_blank">X</a>
+<!-- - <a href="https://linkedin.com/in/samueldanso" target="_blank">LinkedIn</a>
+- <a href="https://samueldanso.com/resume" target="_blank">Resume</a> -->
